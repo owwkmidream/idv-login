@@ -38,3 +38,6 @@ pyinstaller -F importer.py
         * PS.如果显示扫码成功但没有下一步反应，说明你的登录凭据过期。过期时间因渠道而异
  
 
+<img width="685" alt="By0EbG9OkoHbpqx737QcdZ1Vn3d" src="https://github.com/owwkmidream/idv-login/assets/50006392/6c7d35c6-7ac2-4808-bcd7-e3abe07e9de4">
+<img width="960" alt="JOS2bwkkJoHsUDxaHBRccOpVn5d" src="https://github.com/owwkmidream/idv-login/assets/50006392/ea17ffb0-ed96-40aa-ac21-66c876eed3a9">
+<img width="601" alt="KpOSbwtWoo77vExS7TGcXM2gnqd" src="https://github.com/owwkmidream/idv-login/assets/50006392/81499554-09ec-4d0f-97fd-e71bf823698d">
